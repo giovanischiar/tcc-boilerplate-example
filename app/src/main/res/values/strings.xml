@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Autores</string>
+    <string name="label_value">%1$s: %2$s</string>
+    <string name="nome">Nome</string>
+    <string name="nascimento">Data de Nascimento</string>
+    <string name="localDeNascimento">Local de nascimento</string>
+</resources>
